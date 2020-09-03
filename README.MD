@@ -1,2 +1,1 @@
-![GitHub Logo](/images/header.png)
-Format: ![Old favorite NGNL](url)
+![Old favorite NGNL](https://github.com/SaintMiner/SaintMiner/blob/master/images/header.png?raw=true)
