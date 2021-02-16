@@ -11,6 +11,6 @@
     <img alt="Nodejs"  src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
     <img alt="Vue"  src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
     <img alt="MySql"  src="https://img.shields.io/badge/-MySql-00758F?style=flat-square&logo=MySql&logoColor=white"/>
-    <img alt="MySql"  src="https://img.shields.io/badge/-Apache Cassandra-1287B1?style=flat-square&logo=apache cassandra&logoColor=white"/>    
+    <img alt="Apache cassandra"  src="https://img.shields.io/badge/-Apache Cassandra-1287B1?style=flat-square&logo=apache_cassandra&logoColor=white"/>    
 </p>
 
